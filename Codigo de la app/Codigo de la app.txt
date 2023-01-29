@@ -1,3 +1,3 @@
 ## Codigo de la app
 
-## Correcion del acceso
+## Correcion del acceso y mejora de los resultados
