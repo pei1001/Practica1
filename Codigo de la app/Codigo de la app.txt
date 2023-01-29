@@ -1,3 +1,5 @@
 ## Codigo de la app
 
 ## Correcion del acceso y mejora de los resultados
+
+## Mejora del almacenamiento
