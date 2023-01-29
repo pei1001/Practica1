@@ -1,1 +1,3 @@
 ## Aqui la interfaz
+
+## Mejora de la velocidad de carga
