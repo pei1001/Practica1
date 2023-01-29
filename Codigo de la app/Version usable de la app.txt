@@ -1,1 +1,3 @@
 ## Aqui la version usable de la beta
+
+## Correcion de permisos dentro de la app
